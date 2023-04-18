@@ -1,6 +1,6 @@
 # Koyeb example applications
 
-This repository contains links to example projects for different programming languages and frameworks that can be deployed to the [Koyeb serverless platform](This repository contains links to example projects for different programming languages and frameworks that can be deployed to the Koyeb serverless platform).
+This repository contains links to example projects for different programming languages and frameworks that can be deployed to the [Koyeb serverless platform](https://www.koyeb.com/).
 
 | Application | Build status |
 |------------ | ------------ |
