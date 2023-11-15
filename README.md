@@ -22,6 +22,7 @@ This repository contains links to example projects for different programming lan
 | [nextjs](https://github.com/koyeb/example-nextjs) | [![example-nextjs](https://github.com/koyeb/example-nextjs/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-nextjs/actions)
 | [nuxt](https://github.com/koyeb/example-nuxt) | [![example-nuxtjs](https://github.com/koyeb/example-nuxt/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-nuxt/actions)
 | [prisma](https://github.com/koyeb/example-prisma) | [![example-prisma](https://github.com/koyeb/example-prisma/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-prisma/actions)
+| [qwik](https://github.com/koyeb/example-qwik) | [![example-qwik](https://github.com/koyeb/example-qwik/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-qwik/actions)
 | [rails-devise](https://github.com/koyeb/example-rails-devise) | [![example-rails-devise](https://github.com/koyeb/example-rails-devise/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-rails-devise/actions)
 | [rails](https://github.com/koyeb/example-rails) | [![example-rails](https://github.com/koyeb/example-rails/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-rails/actions)
 | [remix](https://github.com/koyeb/example-remix) | [![example-remix](https://github.com/koyeb/example-remix/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-remix/actions)
