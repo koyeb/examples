@@ -5,6 +5,7 @@ This repository contains links to example projects for different programming lan
 | Application | Build status |
 |------------ | ------------ |
 | [apollo-grapqhl-server-with-mongodb-atlas](https://github.com/koyeb/example-apollo-grapqhl-server-with-mongodb-atlas) | [![example-apollo-grapqhl-server-with-mongodb-atlas](https://github.com/koyeb/example-apollo-grapqhl-server-with-mongodb-atlas/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-apollo-grapqhl-server-with-mongodb-atlas/actions)
+| [beego](https://github.com/koyeb/example-beego) | [![example-beego](https://github.com/koyeb/example-beego/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-beego/actions)
 | [bun](https://github.com/koyeb/example-bun) | [![example-bun](https://github.com/koyeb/example-bun/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-bun/actions)
 | [deno](https://github.com/koyeb/example-deno) | [![example-deno](https://github.com/koyeb/example-deno/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-deno/actions)
 | [django](https://github.com/koyeb/example-django) | [![example-django](https://github.com/koyeb/example-django/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-django/actions)
