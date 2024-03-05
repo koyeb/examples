@@ -17,6 +17,7 @@ This repository contains links to example projects for different programming lan
 | [flask](https://github.com/koyeb/example-flask) | [![example-flask](https://github.com/koyeb/example-flask/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-flask/actions)
 | [go-gin](https://github.com/koyeb/example-go-gin) | [![example-go-gin](https://github.com/koyeb/example-go-gin/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-go-gin/actions)
 | [golang](https://github.com/koyeb/example-golang) | [![example-golang](https://github.com/koyeb/example-golang/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-golang/actions)
+| [hapi](https://github.com/koyeb/example-hapi) | [![example-hapi](https://github.com/koyeb/example-hapi/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-hapi/actions)
 | [hono](https://github.com/koyeb/example-hono) | [![example-hono](https://github.com/koyeb/example-hono/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-hono/actions)
 | [java](https://github.com/koyeb/example-java) | [![example-java](https://github.com/koyeb/example-java/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-java/actions)
 | [koa-prisma](https://github.com/koyeb/example-koa-prisma) | [![example-koa-prisma](https://github.com/koyeb/example-koa-prisma/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-koa-prisma/actions)
