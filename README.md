@@ -4,6 +4,7 @@ This repository contains links to example projects for different programming lan
 
 | Application | Build status |
 |------------ | ------------ |
+| [aim](https://github.com/koyeb/example-aim) | [![example-aim](https://github.com/koyeb/example-aim/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-aim/actions)
 | [apollo-grapqhl-server-with-mongodb-atlas](https://github.com/koyeb/example-apollo-grapqhl-server-with-mongodb-atlas) | [![example-apollo-grapqhl-server-with-mongodb-atlas](https://github.com/koyeb/example-apollo-grapqhl-server-with-mongodb-atlas/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-apollo-grapqhl-server-with-mongodb-atlas/actions)
 | [beego](https://github.com/koyeb/example-beego) | [![example-beego](https://github.com/koyeb/example-beego/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-beego/actions)
 | [bun](https://github.com/koyeb/example-bun) | [![example-bun](https://github.com/koyeb/example-bun/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-bun/actions)
